@@ -1,0 +1,14 @@
+
+# _data_
+/data
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# _pycache_
+
+/__pycache__
